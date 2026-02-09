@@ -1,0 +1,26 @@
+! Doric-Pine Colors
+*background: #303f2d
+*foreground: #d0e2c8
+*cursorColor: #c0a27a
+
+*color0: #40503d
+*color8: #40503d
+*color1: #e8a28f
+*color9: #e8a28f
+*color2: #a2d09a
+*color10: #a2d09a
+*color3: #c4b980
+*color11: #c4b980
+*color4: #98bae0
+*color12: #98bae0
+*color5: #e9acbf
+*color13: #e9acbf
+*color6: #a0c0d0
+*color14: #a0c0d0
+*color7: #d0e2c8
+*color15: #d0e2c8
+
+*dmenu.background : #40503d
+*dmenu.foreground : #d0e2c8
+*dmenu.selbackground : #70523a
+*dmenu.selforeground : #d0e2c8

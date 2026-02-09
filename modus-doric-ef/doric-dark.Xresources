@@ -1,0 +1,26 @@
+! Doric-Dark Colors
+*background: #000000
+*foreground: #ffffff
+*cursorColor: #ccaaee
+
+*color0: #332d38
+*color8: #332d38
+*color1: #eca28f
+*color9: #eca28f
+*color2: #b9d0aa
+*color10: #b9d0aa
+*color3: #c0b080
+*color11: #c0b080
+*color4: #9fbfe7
+*color12: #9fbfe7
+*color5: #e9acbf
+*color13: #e9acbf
+*color6: #a0c0d0
+*color14: #a0c0d0
+*color7: #ffffff
+*color15: #ffffff
+
+*dmenu.background : #332d38
+*dmenu.foreground : #ffffff
+*dmenu.selbackground : #50447f
+*dmenu.selforeground : #ffffff

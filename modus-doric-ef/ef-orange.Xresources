@@ -1,0 +1,26 @@
+! Ef-Orange Colors
+*background: #ffedc9
+*foreground: #6c4631
+*cursorColor: #cf5f00
+
+*color0: #f7e5b6
+*color8: #c9b088
+*color1: #ba2d2f
+*color9: #cf2030
+*color2: #007a0a
+*color10: #2f783f
+*color3: #a05a22
+*color11: #aa4f30
+*color4: #375cc6
+*color12: #265fbf
+*color5: #ba3e54
+*color13: #8448aa
+*color6: #467080
+*color14: #0f738f
+*color7: #6c4631
+*color15: #6f6a70
+
+*dmenu.background : #f7e5b6
+*dmenu.foreground : #6c4631
+*dmenu.selbackground : #ffc255
+*dmenu.selforeground : #6c4631

@@ -1,0 +1,26 @@
+! Doric-Siren Colors
+*background: #d9e0ed
+*foreground: #001020
+*cursorColor: #2040a0
+
+*color0: #c2d1df
+*color8: #c2d1df
+*color1: #a01010
+*color9: #a01010
+*color2: #106710
+*color10: #106710
+*color3: #60400f
+*color11: #60400f
+*color4: #103077
+*color12: #103077
+*color5: #700d50
+*color13: #700d50
+*color6: #005355
+*color14: #005355
+*color7: #001020
+*color15: #001020
+
+*dmenu.background : #c2d1df
+*dmenu.foreground : #001020
+*dmenu.selbackground : #90b0e0
+*dmenu.selforeground : #001020

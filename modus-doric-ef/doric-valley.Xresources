@@ -1,0 +1,26 @@
+! Doric-Valley Colors
+*background: #383035
+*foreground: #e0d5b7
+*cursorColor: #94d0eb
+
+*color0: #484040
+*color8: #484040
+*color1: #eca28f
+*color9: #eca28f
+*color2: #b9d0aa
+*color10: #b9d0aa
+*color3: #c0b060
+*color11: #c0b060
+*color4: #9fbfe7
+*color12: #9fbfe7
+*color5: #e9acbf
+*color13: #e9acbf
+*color6: #a0c0d0
+*color14: #a0c0d0
+*color7: #e0d5b7
+*color15: #e0d5b7
+
+*dmenu.background : #484040
+*dmenu.foreground : #e0d5b7
+*dmenu.selbackground : #3d5e57
+*dmenu.selforeground : #e0d5b7

@@ -1,0 +1,61 @@
+! base24 Kanagawa Dragon
+! Scheme author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
+! Template author: Tinted Theming (https://github.com/tinted-theming)
+
+#define base00 #181616
+#define base01 #282727
+#define base02 #393836
+#define base03 #625e5a
+#define base04 #737c73
+#define base05 #c5c9c5
+#define base06 #c8c093
+#define base07 #c5c9c5
+#define base08 #c4746e
+#define base09 #b6927b
+#define base0A #c4b28a
+#define base0B #8a9a7b
+#define base0C #8ea4a2
+#define base0D #8ba4b0
+#define base0E #a292a3
+#define base0F #b98d7b
+#define base12 #e46876
+#define base13 #e6c384
+#define base14 #87a987
+#define base15 #7aa89f
+#define base16 #7fb4ca
+#define base17 #938aa9
+
+*foreground:   base05
+#ifdef background_opacity
+*background:   [background_opacity]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base05
+
+*color0:       base00
+*color1:       base08
+*color2:       base0B
+*color3:       base0A
+*color4:       base0D
+*color5:       base0E
+*color6:       base0C
+*color7:       base06
+
+*color8:       base03
+*color9:       base12
+*color10:      base14
+*color11:      base13
+*color12:      base16
+*color13:      base17
+*color14:      base15
+*color15:      base07
+
+! Note: colors beyond 15 might not be loaded (e.g., xterm, urxvt),
+! use 'shell' template to set these if necessary
+*color16:      base09
+*color17:      base0F
+*color18:      base01
+*color19:      base02
+*color20:      base04
+*color21:      base06

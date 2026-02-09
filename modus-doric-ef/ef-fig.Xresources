@@ -1,0 +1,26 @@
+! Ef-Fig Colors
+*background: #3b2043
+*foreground: #e4d3e1
+*cursorColor: #e0646a
+
+*color0: #432e4e
+*color8: #6a586e
+*color1: #ef797f
+*color9: #e088af
+*color2: #7fbb3f
+*color10: #79d081
+*color3: #e4c53f
+*color11: #eec27f
+*color4: #57aff6
+*color12: #62cff7
+*color5: #ffb2d6
+*color13: #afb1ff
+*color6: #5fc0dc
+*color14: #80dfbf
+*color7: #e4d3e1
+*color15: #9d9d9d
+
+*dmenu.background : #432e4e
+*dmenu.foreground : #e4d3e1
+*dmenu.selbackground : #57602e
+*dmenu.selforeground : #e4d3e1

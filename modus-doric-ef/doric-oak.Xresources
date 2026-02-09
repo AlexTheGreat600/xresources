@@ -1,0 +1,26 @@
+! Doric-Oak Colors
+*background: #e0d8c7
+*foreground: #3a2018
+*cursorColor: #497020
+
+*color0: #d5c9b5
+*color8: #d5c9b5
+*color1: #982500
+*color9: #982500
+*color2: #226700
+*color10: #226700
+*color3: #595000
+*color11: #595000
+*color4: #103077
+*color12: #103077
+*color5: #700054
+*color13: #700054
+*color6: #005460
+*color14: #005460
+*color7: #3a2018
+*color15: #3a2018
+
+*dmenu.background : #d5c9b5
+*dmenu.foreground : #3a2018
+*dmenu.selbackground : #b1bf88
+*dmenu.selforeground : #3a2018

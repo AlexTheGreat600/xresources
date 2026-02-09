@@ -1,0 +1,26 @@
+! Doric-Fire Colors
+*background: #282420
+*foreground: #f5ceb0
+*cursorColor: #ef7839
+
+*color0: #40332b
+*color8: #40332b
+*color1: #eca27f
+*color9: #eca27f
+*color2: #b9d08a
+*color10: #b9d08a
+*color3: #c5ba80
+*color11: #c5ba80
+*color4: #9fbfe7
+*color12: #9fbfe7
+*color5: #e9acbf
+*color13: #e9acbf
+*color6: #a0c0d0
+*color14: #a0c0d0
+*color7: #f5ceb0
+*color15: #f5ceb0
+
+*dmenu.background : #40332b
+*dmenu.foreground : #f5ceb0
+*dmenu.selbackground : #7c362c
+*dmenu.selforeground : #f5ceb0
