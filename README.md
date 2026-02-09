@@ -1,2 +1,2 @@
 # xresources
-🎨 Xresources - Huge Collection Of Xresources
+🎨 Xresources - Huge Collection Of Xresources (i didn't make these)
